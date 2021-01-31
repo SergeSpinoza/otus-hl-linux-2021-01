@@ -1,0 +1,4 @@
+access_token     = "xxxxxxxxxxxxxxxxxxxxxxxxxx"
+public_key_path  = "~/.ssh/deploy/id_rsa.pub"
+private_key_path = "~/.ssh/deploy/id_rsa"
+
